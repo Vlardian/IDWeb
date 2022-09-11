@@ -1,0 +1,10 @@
+C: 1426db4
+C++: 1aea953
+JS: 9088963
+J: 21c9419
+Python: e032a92
+C#: 5be8acb
+Kotlin: e058654
+Ruby: ca4d9b7
+PHP: ab3338a
+Swift: c2bd4b2
